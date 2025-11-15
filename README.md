@@ -1,37 +1,34 @@
-# 🌟 Luminara
-**Luminara** — An open-source playground for creative UI patterns & components.  
-✨ Preview → Customize → Copy.
+# Aurora UI: The Future of Your Application
+
+**Aurora UI** is a modern, professional React component library built with TypeScript and Tailwind CSS. This repository contains a complete, runnable Vite application showcasing the components.
 
 ---
 
-## 🚀 Features
-- 🎨 **Patterns gallery** — Ready-to-use gradients & glow backgrounds.
-- ⚡ **Pattern generator** — Create your own 2-color glow backgrounds.
-- 📋 **Copy code instantly** — HTML/Tailwind snippets.
-- 🧩 **Extensible** — Future buttons, cards, UI components.
+## 🚀 Running the Project
 
----
+To get started, clone the repository and install the dependencies.
 
-## 🔧 Usage 
-Choose a pattern or generate your own → copy the code → paste in your project.
+### 1. Clone the Repository
 
----
+```bash
+git clone https://github.com/your-username/aurora-ui.git
+cd aurora-ui
+```
 
-## 🛣️ Roadmap
-- [x] Patterns Gallery
-- [x] Generator
-- [ ] Buttons library
-- [ ] Cards library
-- [ ] UI Sections (Hero, Footer, Pricing, etc.)
-- [ ] Code export (HTML, React, Vue)
+### 2. Install Dependencies
 
----
+Install all the required packages using `npm`:
 
-## 🤝 Contributing
-We welcome contributions!  
-Add your own pattern or component → see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+```bash
+npm install
+```
 
----
+### 3. Run the Development Server
 
-## 📜 License
-MIT License — free to use and share.
+Start the Vite development server:
+
+```bash
+npm run dev
+```
+
+The application will be available at `http://localhost:5173`.
